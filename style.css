@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+
+.heading h3{
+    display:inline;
+    text-align: center;
+}
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom:0;
+    width:100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
